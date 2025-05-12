@@ -1,6 +1,6 @@
 # Diamond Tech Gaming - Website Redesign
 
-![Diamond Tech Website Screenshot](./screenshot.png)
+https://www.diamondtechgaming.com/
 
 A modern redesign of the Diamond Tech Gaming website using Bootstrap 5, featuring a responsive layout with enhanced UI components and interactive elements.
 
